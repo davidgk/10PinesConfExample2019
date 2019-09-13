@@ -12,7 +12,7 @@ describe 'RspecExample' do
     end
   describe '#resta' do
     context 'if I send tow values' do
-      it 'result the exact addtition of both' do
+      it 'result the exact substraction of both' do
           expect(RspecExample.new().resta(2,1)).to eq(1)
       end
     end
