@@ -3,7 +3,7 @@
 
 Proyecto sandox para practicar la heurística
 
-###Agregar en el Alias
+### Agregar en el Alias
 
 * alias bsan="git checkout -b feature-sandbox"
 * alias msan="gitb -m feature-sandbox "
@@ -12,7 +12,7 @@ Proyecto sandox para practicar la heurística
 * alias msan="gitb -m feature-sandbox $1"
 * alias cmas="gitck master; git pull"
 * alias mmas="git merge master"
-* alias pfor="git push origin $(git branch | grep \* | cut -d ' ' -f2) -f"
+
 
 
 * functions
