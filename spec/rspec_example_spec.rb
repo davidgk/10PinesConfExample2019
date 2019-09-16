@@ -17,4 +17,11 @@ describe 'RspecExample' do
       end
     end
   end
+  describe '#multiplicacion' do
+    context 'if I send tow values' do
+      it 'result the exact multiplications of both' do
+        expect(RspecExample.new().multiplication(2,2)).to eq(4)
+      end
+    end
+  end
 end

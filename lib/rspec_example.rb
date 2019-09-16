@@ -8,4 +8,8 @@ class RspecExample
 	def resta(valueA, valueB)
 		valueA -valueB
 	end
+
+	def multiplication(valueA, valueB)
+		valueA * valueB
+	end
 end
