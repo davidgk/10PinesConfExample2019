@@ -9,7 +9,6 @@ Proyecto sandox para practicar la heurística
 * alias msan="gitb -m feature-sandbox "
 * alias dsan="delbranch feature-sandbox"
 * alias csan="git checkout feature-sandbox"
-* alias msan="gitb -m feature-sandbox $1"
 * alias cmas="gitck master; git pull"
 * alias mmas="git merge master"
 
